@@ -11,7 +11,7 @@ User.prototype.getUsers =  function(username) {
             "<ul class='list-group'>" +
                 "<li class='list-group-item'>Username: " + response.login + "</li>" +
                 "<li class='list-group-item'>Name: " + response.name + "</li>" +
-                "<li class='list-group-item'><img width='233' height='233' src='" + response.avatar_url + "'></li>" +
+                "<li class='list-group-item'><img width='233' height='233' src='" + response.avatar_url + "' alt='avatar'></li>" +
                 "<li class='list-group-item'>Location: " + response.location + "</li>" +
             "</ul>"
         );
