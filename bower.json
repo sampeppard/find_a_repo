@@ -1,0 +1,24 @@
+{
+  "name": "github_user_lookup",
+  "description": "an app that returns github users when matching names are entered in the input field",
+  "main": "index.js",
+  "authors": [
+    "sam peppard"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "MIT"
+  ],
+  "homepage": "https://github.com/sampeppard/github_user_lookup",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1",
+    "bootstrap": "^3.3.7"
+  }
+}
