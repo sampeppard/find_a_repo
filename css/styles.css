@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  padding: 15px;
+  font-family: 'Anton', sans-serif;
+  background-color: darkslateblue;
+  color: #ffffff;
+}
+
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  padding: 15px 0;
+  text-align: center;
+  font-family: 'Anton', sans-serif;
+  background-color: darkslateblue;
+  color: #ffffff;
+}
