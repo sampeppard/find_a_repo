@@ -1,6 +1,6 @@
 # **Find a Repo**
 
-##### A project built with Angular2. 10.23.2016
+##### A project built using the GitHub API. 10.9.2016
 #
 ##### By [Sam Peppard](https://github.com/sampeppard)
 #
